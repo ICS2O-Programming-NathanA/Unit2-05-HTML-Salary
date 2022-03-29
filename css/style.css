@@ -5,26 +5,26 @@
 */
 
 body {
-	background-color: rgb(190, 249, 197);
+	background-color: rgb(163, 255, 174);
 }
 
 h1 {
-	background-color: rgb(234, 153, 217);
+	background-color: rgb(59, 216, 143);
 	color: hsl(0, 0%, 0%);
 	padding: 40px;
 	text-align: center;
 }
 
 p {
-	background-color: #c6fbe0;
+	background-color: #2a6f4b;
 }
 
 div {
   font-weight: bold;
-  color: #ae1acb;
+  color: #ffffff;
   margin: 5px;
 }
 
 #display-results{
-  background-color: #eeecb4;
+  background-color: #37d25e;
 }
